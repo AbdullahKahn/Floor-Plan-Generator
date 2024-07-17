@@ -1,0 +1,7 @@
+_internal/
+build/
+dataset/
+floorplan.gcode
+screen.py
+FloorPlan_Generator.exe
+FloorPlan_Generator.spec
